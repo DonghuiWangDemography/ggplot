@@ -1,9 +1,7 @@
 # practice of ridge plot 
+#created by Donghui Wang 
 
-
-#install.packages("tidyverse")
-#install.packages("cowplot")
-#install.packages("grid")
+/
 library(tidyverse)
 library(dplyr)
 
