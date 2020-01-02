@@ -1,7 +1,9 @@
 # practice of ridge plot 
 #created by Donghui Wang 
+#test for pull to another local 
+# https://www.youtube.com/watch?v=-c2uNqEE6-c
 
-/
+
 library(tidyverse)
 library(dplyr)
 
